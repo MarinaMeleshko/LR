@@ -1,1 +1,1 @@
-# LR
+Rational fraction class
