@@ -1,0 +1,12 @@
+E:\Марина\универ\LR7\LR7\bin\Debug\LR7.exe.config
+E:\Марина\универ\LR7\LR7\bin\Debug\LR7.exe
+E:\Марина\универ\LR7\LR7\bin\Debug\LR7.pdb
+E:\Марина\универ\LR7\LR7\obj\Debug\LR7.csprojResolveAssemblyReference.cache
+E:\Марина\универ\LR7\LR7\obj\Debug\LR7.exe
+E:\Марина\универ\LR7\LR7\obj\Debug\LR7.pdb
+E:\Марина\универ\ИСП\LR7\LR7\bin\Debug\LR7.exe.config
+E:\Марина\универ\ИСП\LR7\LR7\obj\Debug\LR7.exe
+E:\Марина\универ\ИСП\LR7\LR7\obj\Debug\LR7.pdb
+E:\Марина\универ\ИСП\LR7\LR7\bin\Debug\LR7.exe
+E:\Марина\универ\ИСП\LR7\LR7\bin\Debug\LR7.pdb
+E:\Марина\универ\ИСП\LR7\LR7\obj\Debug\LR7.csprojResolveAssemblyReference.cache
